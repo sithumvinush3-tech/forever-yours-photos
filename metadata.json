@@ -1,0 +1,6 @@
+{
+  "name": "Forever Yours — Sithum & Nihara",
+  "description": "A cinematic digital relationship memory archive, birthday celebration, and interactive gallery for Sithum and Nihara (Manika).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
